@@ -1,4 +1,4 @@
-# Test Cases — Resume & JD Matcher
+﻿# Test Cases â€” Resume & JD Matcher
 
 Use these samples to test the prompt in ChatGPT/Gemini.
 
@@ -16,7 +16,7 @@ Requirements:
 - Basic AWS (EC2, S3) is a plus
 - Experience with Microservices is a plus
 - Good problem-solving and communication
-- 0–2 years experience (freshers can apply)
+- 0â€“2 years experience (freshers can apply)
 
 Responsibilities:
 - Build and maintain REST APIs
@@ -79,3 +79,4 @@ Projects:
 
 Education:
 B.Tech CSE (3rd Year)
+

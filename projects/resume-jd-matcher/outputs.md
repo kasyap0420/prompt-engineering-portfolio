@@ -1,4 +1,4 @@
-# Example Outputs — Resume & JD Matcher
+﻿# Example Outputs â€” Resume & JD Matcher
 
 These are sample outputs produced by running the prompt with the test cases.
 
@@ -24,11 +24,11 @@ These are sample outputs produced by running the prompt with the test cases.
 | Microservices | No | Not mentioned | Add if relevant |
 | Problem-solving | Partial | "project experience" | Not clearly shown |
 | Communication | No | Not mentioned | Add a line or example |
-| 0–2 years experience | Partial | "CSE student" | No clear duration |
+| 0â€“2 years experience | Partial | "CSE student" | No clear duration |
 
 ### 3) Skill Gaps (Missing or Weak)
 - Microservices (not mentioned)
-- AWS details like EC2/S3 (only “Basics” written)
+- AWS details like EC2/S3 (only â€œBasicsâ€ written)
 - Communication and teamwork (not mentioned)
 - Problem-solving proof (no examples)
 
@@ -38,8 +38,8 @@ These are sample outputs produced by running the prompt with the test cases.
 - Relevant Spring Boot project mentioned
 
 ### 5) Quick Improvements (Resume Fixes)
-- Add 2–3 bullets showing problem-solving (bugs fixed, performance improved, etc.)
-- Add a short “Tools” line: Git, Maven, MySQL, Postman (if used)
+- Add 2â€“3 bullets showing problem-solving (bugs fixed, performance improved, etc.)
+- Add a short â€œToolsâ€ line: Git, Maven, MySQL, Postman (if used)
 - Add AWS details if you used them (S3 uploads, EC2 deployment, etc.)
 - Add teamwork/communication proof (team project, presentation, collaboration)
 - Add microservices only if you have real experience (or remove from claims)
@@ -77,7 +77,7 @@ If you have it, include microservices and clear AWS details; otherwise keep clai
 ### 3) Skill Gaps (Missing or Weak)
 - Power BI or Tableau (not mentioned)
 - Statistics (not mentioned)
-- Strong SQL use (only “basic”)
+- Strong SQL use (only â€œbasicâ€)
 - Communication/presentation proof
 
 ### 4) Strengths (Strong Matches)
@@ -89,7 +89,7 @@ If you have it, include microservices and clear AWS details; otherwise keep clai
 - Add a project bullet showing SQL queries used (joins, group by, etc.)
 - Add Power BI/Tableau (learn basics + build one dashboard)
 - Add basic statistics used (mean/median, correlation, hypothesis basics)
-- Add a “Results” line: what insight you found, what improved
+- Add a â€œResultsâ€ line: what insight you found, what improved
 - Add communication proof (reports, presentations, team work)
 
 ### 6) ATS Keywords to Add
@@ -98,4 +98,5 @@ Power BI, Tableau, Data Cleaning, Data Wrangling, Dashboard, Stakeholders, Stati
 ### 7) Final Summary (3 lines)
 You match Python and pandas well, but key analyst requirements like Power BI/Tableau and statistics are missing.  
 Strengthen SQL by showing real queries in a project and add one dashboard tool.  
-Add 2–3 lines proving communication and insight reporting to improve the match score.
+Add 2â€“3 lines proving communication and insight reporting to improve the match score.
+
